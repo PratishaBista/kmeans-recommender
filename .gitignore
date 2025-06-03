@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# personal notes
+misc/
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+
+# deployment files
+instance/
+*.db
+*.sqlite3
+*.log
